@@ -25,44 +25,26 @@ sidebar:
       - idiom: Espagnol
         level: Moyen
         
-    Formation en cour:
-      - item: Epitech Parcours Grande Ecole
-        link:
-        
 career-profile:
-    title: Career Profile
+    title: Profil Personnel
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
+      Extrêmement motivé pour développer mes compétences et évoluer professionnellement. 
+      Curieux des nouvelles technologies, je suis à l'écoute des conseils que l'on me donne
+      et assidu dans mon travail.
 
-      Second paragraph if required.
-
-education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+Parcours Scolaire:
+    - degree: Bac S 
+      university: lycée general Carnot
+      time: 2015 - 2018
+      details:
 
           - Bullet point
           - Bullet point 
 
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+    - degree: EPITECH PGE
+      university: Parcours Grande Ecole en 5 ans EPITECH
+      time: 2018 - 2021
+      details:
 
           - Bullet point
           - Bullet point 
