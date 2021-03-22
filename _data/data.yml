@@ -33,7 +33,7 @@ career-profile:
       et assidu dans mon travail.
 
 education:
-    title: Parcours Scolaire
+    - title: Parcours Scolaire
     - degree: Bac S 
       university: lycée general Carnot
       time: 2015 - 2018
