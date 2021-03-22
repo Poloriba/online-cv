@@ -32,7 +32,8 @@ career-profile:
       Curieux des nouvelles technologies, je suis à l'écoute des conseils que l'on me donne
       et assidu dans mon travail.
 
-Parcours Scolaire:
+education:
+    title: Parcours Scolaire
     - degree: Bac S 
       university: lycée general Carnot
       time: 2015 - 2018
