@@ -74,10 +74,9 @@ experiences:
         - Mise en production de modification, correction de bug.
 
 
-
 projects:
     title: Projects
-    intro: >
+    intro: |
     - Notions en langage informatique de C, C++, Python, HTML, CSS, JS, bash shell unix, Docker, Flutter.
     - Français , Anglais 810/990 TOEIC , Espagnol lv2.
     - Adore le travail en équipe et m adapte facilement à mon environnement.
@@ -85,6 +84,9 @@ projects:
     - Autonome dans le travail.
     
     assignments:
+      - title: Velocity
+        link:
+        tagline:
 
 
 skills:
