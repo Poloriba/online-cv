@@ -1,9 +1,5 @@
-#
-# Be aware that even a small syntax error here can lead to failures in output. 
-#
-
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: Falses # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -12,37 +8,27 @@ sidebar:
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
+    email: paul.riba@epitech.fr
+    phone: 06 72 24 94 07
+    website: paulriba.fr
+    linkedin: Paul Riba
+    github: Poloriba
+    twitter: '@poloriba'
 
     languages:
-      - idiom: English
-        level: Native
+      - idiom: Anglais
+        level: Bon
 
-      - idiom: French
-        level: Professional
+      - idiom: Français
+        level: Natif
 
-      - idiom: Spanish
-        level: Professional
+      - idiom: Espagnol
+        level: Moyen
         
-    interests:
-      - item: Climbing
+    Formation en cour:
+      - item: Epitech Parcours Grande Ecole
         link:
-
-      - item: Snowboarding
-        link:
-
-      - item: Cooking
-        link:
-
+        
 career-profile:
     title: Career Profile
     summary: |
