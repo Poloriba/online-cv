@@ -14,10 +14,10 @@ h1, h2, h3, h4, h5, h6  {
 }
 
 a {
-    color: darken($theme-color, 15%);
+    color: #708090;
     &:hover {
         text-decoration: underline;
-        color: darken($theme-color, 30%);
+        color: #708090;
     }
     &:focus {
         text-decoration: none;
@@ -37,7 +37,7 @@ p {
 }
 
 .sidebar-wrapper {
-    background: $theme-color;
+    background: #fefad6;
     position: absolute;
     right: 0;
     width: 280px;
@@ -45,7 +45,7 @@ p {
     min-height: 800px;
     color: #fff;
     a {
-        color: #fff;
+        color: #708090;
     }
     .profile-container {
         padding: 30px;
