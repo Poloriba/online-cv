@@ -44,7 +44,15 @@ education:
 
     - degree: EPITECH PGE
       university: Parcours Grande Ecole en 5 ans EPITECH
-      time: 2018 - 2021
+      time: 2018 - 2023
+      details:
+
+          - Bullet point
+          - Bullet point 
+     
+    - degree: Bachelor
+      university: Diplome Licence 3ème année Technologies de l informations 
+      time: 2021
       details:
 
           - Bullet point
