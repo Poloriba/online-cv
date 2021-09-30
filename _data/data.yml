@@ -52,13 +52,11 @@ education:
 
 experiences:
     - role: Stage en entreprise de 3ème
-      time: DEC 2014 - JAN 2015
+      time: 1 semaine en DEC 2014
       company: ADMI Computer Nice
       details: |
         - Découverte du service SAV informatique.
         - Montage de PC / Hardware.
-        - Decouverte de la gestion du site internet d'ADMI.
-        - Débogage et installation de drivers et antivirus.
         
 
     - role: Développeur web, stage 1er année
@@ -72,21 +70,34 @@ experiences:
         - Maintenance et mise à jour de sites internets.
         - Modification et Integration Frontend.
         - Mise en production de modification, correction de bug.
+        
+    - role: Développeur Full stack, stage 3ème année
+      time: AVR 2021 - AOUT 2021
+      company: PG3
+      details: |
+        - Apprentissage du language VueJS.
+        - Dévellopement de mes compétences, HTML, CSS, JS.
+        - Dévellopement de mes compétences DevOps/microservice.
+        - Création d'une application web de gestion de facture.
+        - Utilisation de l'outils de monitoring et ingogérence Grafana.
+        - Contribution au contenu OpenSource de l'entreprise.
+        - Instalation a zéro de plusieurs machines, Ordinateur, Raspberry Pi.
+        - Gestion et administrations de live Youtube.
 
 
 projects:
     title: Compétences
     intro: >
     assignments:
-      - title: Notions en langage informatique de C, C++, Python, HTML, CSS, JS, bash shell unix, Docker, Flutter.
+      - name: Notions en langage informatique de C, C++, Python, HTML, CSS, JS, bash shell unix, Docker, Flutter.
 
-      - title: Français , Anglais 810/990 TOEIC , Espagnol lv2.
+      - name: Français , Anglais 810/990 TOEIC , Espagnol lv2.
 
-      - title: Adore le travail en équipe et m adapte facilement à mon environnement.
+      - name: Adore le travail en équipe et m adapte facilement à mon environnement.
 
-      - title: Cherche à découvrir un maximum de nouvelles technologies.
+      - name: Cherche à développer mes compétences techniques.
 
-      - title: Autonome dans le travail.
+      - name: Autonome dans le travail.
 
 
 skills:
@@ -97,18 +108,24 @@ skills:
         level: 85%
 
       - name: Javascript
-        level: 75%
+        level: 85%
 
       - name: C & C++
-        level: 80%
+        level: 70%
 
       - name: HTML5 & CSS
         level: 95%
-
+        
+      - name: VueJS
+        level: 80%
+        
       - name: Docker & YML
         level: 85%
 
       - name: Sketch & Photoshop
         level: 50%
+        
+      - name: Wordpress
+        level: 100%
 
 footer:
