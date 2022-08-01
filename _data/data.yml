@@ -102,12 +102,13 @@ experiences:
 
 projects:
     title: Compétences
+    intro:
     assignments:
-      - name: Notions en langage informatique de C, C++, Python, HTML, CSS, JS, bash shell unix, Docker, Flutter.
-      - name: Utilisation de framework Node, react.
-      - name: Adore le travail en équipe et m'adapte facilement à mon environnement.
-      - name: Cherche à développer mes compétences techniques et mes soft skills.
-      - name: Autonome dans le travail, je peut m'adapter rapidement à un nouveau langague.
+      - title: Notions en langage informatique de C, C++, Python, HTML, CSS, JS, bash shell unix, Docker, Flutter.
+      - title: Utilisation de framework Node, react.
+      - title: Adore le travail en équipe et m'adapte facilement à mon environnement.
+      - title: Cherche à développer mes compétences techniques et mes soft skills.
+      - title: Autonome dans le travail, je peut m'adapter rapidement à un nouveau langague.
 
 
 skills:
