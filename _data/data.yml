@@ -4,20 +4,19 @@ sidebar:
 
     # Profile information
     name: Paul RIBA
-    tagline: Etudiant EPITECH 3ème année
+    tagline: Etudiant EPITECH 5ème année
     avatar: profile.png
 
     # Sidebar links
     email: paul.riba@epitech.fr
     phone: 06 72 24 94 07
-    website: paulriba.fr
     linkedin: Paul Riba
     github: Poloriba
     twitter: '@poloriba'
 
     languages:
       - idiom: Anglais
-        level: Bon
+        level: Bon, équivalent Toeic 810/990
 
       - idiom: Français
         level: Natif
@@ -53,6 +52,14 @@ education:
     - degree: Bachelor
       university: Diplome Licence 3ème année Technologies de l informations 
       time: 2021
+      details:
+
+          - Bullet point
+          - Bullet point 
+
+    - degree: Année d'échange en Corée du sud
+      university: Master 1 à INHA UNIVERSITY
+      time: 2022
       details:
 
           - Bullet point
@@ -95,17 +102,12 @@ experiences:
 
 projects:
     title: Compétences
-    intro: >
     assignments:
       - name: Notions en langage informatique de C, C++, Python, HTML, CSS, JS, bash shell unix, Docker, Flutter.
-
-      - name: Français , Anglais 810/990 TOEIC , Espagnol lv2.
-
-      - name: Adore le travail en équipe et m adapte facilement à mon environnement.
-
-      - name: Cherche à développer mes compétences techniques.
-
-      - name: Autonome dans le travail.
+      - name: Utilisation de framework Node, react.
+      - name: Adore le travail en équipe et m'adapte facilement à mon environnement.
+      - name: Cherche à développer mes compétences techniques et mes soft skills.
+      - name: Autonome dans le travail, je peut m'adapter rapidement à un nouveau langague.
 
 
 skills:
