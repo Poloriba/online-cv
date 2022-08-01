@@ -99,17 +99,16 @@ experiences:
         - Instalation a zéro de plusieurs machines, Ordinateur, Raspberry Pi.
         - Gestion et administrations de live Youtube.
 
-
-projects:
+publications:
     title: Compétences
-    intro:
-    assignments:
-      - title: Notions en langage informatique de C, C++, Python, HTML, CSS, JS, bash shell unix, Docker, Flutter.
+    intro: |
+      
+    papers:
+      - title: Notions en langage informatique de C, C++, Python, HTML, CSS, JS, bash shell unix, Docker, Flutter.     
       - title: Utilisation de framework Node, react.
       - title: Adore le travail en équipe et m'adapte facilement à mon environnement.
       - title: Cherche à développer mes compétences techniques et mes soft skills.
       - title: Autonome dans le travail, je peut m'adapter rapidement à un nouveau langague.
-
 
 skills:
     title: Niveaux de compétences
