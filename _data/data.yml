@@ -4,7 +4,7 @@ sidebar:
 
     # Profile information
     name: Paul RIBA
-    tagline: Etudiant EPITECH 5ème année
+    tagline: Developpeur Master 2
     avatar: profile.png
 
     # Sidebar links
@@ -12,7 +12,6 @@ sidebar:
     phone: 06 72 24 94 07
     linkedin: Paul Riba
     github: Poloriba
-    twitter: '@poloriba'
 
     languages:
       - idiom: Anglais
@@ -24,12 +23,14 @@ sidebar:
       - idiom: Espagnol
         level: Moyen
         
+      - idiom: Coreéen
+        level: Débutant
+        
 career-profile:
     title: Profil Personnel
     summary: |
       Extrêmement motivé pour développer mes compétences et évoluer professionnellement. 
-      Curieux des nouvelles technologies, je suis à l'écoute des conseils que l'on me donne
-      et assidu dans mon travail.
+      Curieux des nouvelles technologies, je suis à l'écoute de mon entourage et assidu dans mon travail.
 
 education:
     - title: Parcours Scolaire
@@ -49,9 +50,9 @@ education:
           - Bullet point
           - Bullet point 
      
-    - degree: Bachelor
-      university: Diplome Licence 3ème année Technologies de l informations 
-      time: 2021
+    - degree: Bachelor et Master 2 expert en nouvelle technologie
+      university: expert en technologie de l'information
+      time: 2023
       details:
 
           - Bullet point
@@ -63,17 +64,9 @@ education:
       details:
 
           - Bullet point
-          - Bullet point 
+          - Bullet point
 
 experiences:
-    - role: Stage en entreprise de 3ème
-      time: 1 semaine en DEC 2014
-      company: ADMI Computer Nice
-      details: |
-        - Découverte du service SAV informatique.
-        - Montage de PC / Hardware.
-        
-
     - role: Développeur web, stage 1er année
       time: AOUT 2019 - DEC 2019
       company: Coffee Marketing
@@ -99,12 +92,22 @@ experiences:
         - Instalation a zéro de plusieurs machines, Ordinateur, Raspberry Pi.
         - Gestion et administrations de live Youtube.
 
+    - role: Software Développeur, Stage de fin d'étude
+      time: MAR 2023 - AOUT 2023
+      company: Sopra-Steria Sophia Antipolis
+      details: |
+        - Dévellopement de mes compétences C# .NET.
+        - Utilisation de l'outils de gestion de projet Azure Devops.
+        - Integration au sein d'une équipe de TMA sur un projet santé.
+        - Relation client.
+        - Responsabilité de temps sous forme de tickets.
+
 publications:
     title: Compétences
     intro: |
       
     papers:
-      - title: Notions en langage informatique de C, C++, Python, HTML, CSS, JS, bash shell unix, Docker, Flutter.     
+      - title: Notions en langage informatique de C, C++, C#, Python, HTML, CSS, JS, bash shell unix, Docker, Azur, Flutter.     
       - title: Utilisation de framework Node, react.
       - title: Adore le travail en équipe et m'adapte facilement à mon environnement.
       - title: Cherche à développer mes compétences techniques et mes soft skills.
@@ -120,11 +123,11 @@ skills:
       - name: Javascript
         level: 85%
 
-      - name: C & C++
+      - name: C & C++ & C#
         level: 70%
 
       - name: HTML5 & CSS
-        level: 95%
+        level: 90%
         
       - name: VueJS
         level: 80%
@@ -134,8 +137,5 @@ skills:
 
       - name: Sketch & Photoshop
         level: 50%
-        
-      - name: Wordpress
-        level: 100%
 
 footer:
