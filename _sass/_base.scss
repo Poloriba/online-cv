@@ -37,7 +37,7 @@ p {
 }
 
 .sidebar-wrapper {
-    background: #8863ff;
+    background: #bf819e;
     position: absolute;
     right: 0;
     width: 280px;
@@ -54,7 +54,7 @@ p {
         //background: darken($theme-color, 10%);
         background: rgba(0, 0, 0, 0.2);
         text-align: center;
-        color: #708090;
+        color: #fff;
     }
 
     .name {
@@ -65,7 +65,7 @@ p {
     }
 
     .tagline {
-        color: rgba(256, 256, 256, 0.6);
+        color: #fff;
         font-size: 16px;
         font-weight: 400;
         margin-top: 0;
@@ -129,14 +129,14 @@ p {
         }
 
         .meta {
-            color: #708090;
+            color: #fff;
             font-weight: 500;
             margin-bottom: 0px;
             margin-top: 0;
         }
 
         .time {
-            color: #708090;
+            color: #fff;
             font-weight: 500;
             margin-bottom: 0px;
         }
@@ -144,7 +144,7 @@ p {
 
     .languages-container {
         .lang-desc {
-            color: #708090;
+            color: #fff;
         }
     }
 
