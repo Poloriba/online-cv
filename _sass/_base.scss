@@ -37,16 +37,18 @@ p {
 }
 
 .sidebar-wrapper {
-    background: #fefad6;
+    background: #8863ff;
     position: absolute;
     right: 0;
     width: 280px;
     height: 100%;
     min-height: 800px;
     color: #708090;
+
     a {
         color: #708090;
     }
+
     .profile-container {
         padding: 30px;
         //background: darken($theme-color, 10%);
@@ -54,12 +56,14 @@ p {
         text-align: center;
         color: #708090;
     }
+
     .name {
         font-size: 32px;
         font-weight: 900;
         margin-top: 0;
         margin-bottom: 10px;
     }
+
     .tagline {
         color: rgba(256, 256, 256, 0.6);
         font-size: 16px;
@@ -67,6 +71,7 @@ p {
         margin-top: 0;
         margin-bottom: 0;
     }
+
     .profile {
         margin-bottom: 15px;
     }
@@ -79,22 +84,27 @@ p {
         border-radius: 100%;
         box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
     }
+
     .contact-list {
         .fas, .fab {
             margin-right: 5px;
             font-size: 18px;
             vertical-align: middle;
         }
+
         li {
             margin-bottom: 15px;
+
             &:last-child {
                 margin-bottom: 0;
             }
         }
     }
+
     .container-block {
         padding: 30px;
     }
+
     .container-block-title {
         text-transform: uppercase;
         font-size: 16px;
@@ -102,30 +112,36 @@ p {
         margin-top: 0;
         margin-bottom: 15px;
     }
+
     .degree {
         font-size: 14px;
         margin-top: 0;
         margin-bottom: 5px;
     }
+
     .education-container {
         .item {
             margin-bottom: 15px;
+
             &:last-child {
                 margin-bottom: 0;
             }
         }
+
         .meta {
             color: #708090;
             font-weight: 500;
             margin-bottom: 0px;
             margin-top: 0;
         }
+
         .time {
             color: #708090;
             font-weight: 500;
             margin-bottom: 0px;
         }
     }
+
     .languages-container {
         .lang-desc {
             color: #708090;
@@ -134,8 +150,10 @@ p {
 
     .languages-list {
         margin-bottom: 0;
+
         li {
             margin-bottom: 10px;
+
             &:last-child {
                 margin-bottom: 0;
             }
@@ -144,8 +162,10 @@ p {
 
     .interests-list {
         margin-bottom: 0;
+
         li {
             margin-bottom: 10px;
+
             &:last-child {
                 margin-bottom: 0;
             }
