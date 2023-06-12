@@ -177,15 +177,17 @@ p {
     background: #fff;
     padding: 60px;
     padding-right: 340px;
+
     .section-title {
         text-transform: uppercase;
         font-size: 20px;
         font-weight: 500;
-        color: #fff;
+        color: #263054;
         position: relative;
         margin-top: 0;
         margin-bottom: 20px;
     }
+
     .section {
         margin-bottom: 60px;
     }
@@ -195,11 +197,13 @@ p {
             margin-bottom: 30px;
         }
     }
+
     .upper-row {
         position: relative;
         overflow: hidden;
         margin-bottom: 2px;
     }
+
     .job-title, .degree {
         color: $text-color;
         font-size: 16px;
@@ -207,12 +211,14 @@ p {
         margin-bottom: 0;
         font-weight: 500;
     }
+
     .time {
         position: absolute;
         right: 0;
         top: 0;
         color: $text-grey;
     }
+
     .company, .university {
         margin-bottom: 10px;
         color: $text-grey;
@@ -224,10 +230,12 @@ p {
         margin-top: 0;
         margin-bottom: 5px;
     }
+
     .projects-section {
         .intro {
             margin-bottom: 30px;
         }
+
         .item {
             margin-bottom: 15px;
         }
@@ -239,15 +247,18 @@ p {
         color: $text-color;
         margin-bottom: 1px;
     }
+
     .publication-authors {
         font-style: italic;
         color: $text-grey;
         margin-bottom: 1px;
     }
+
     .publications-section {
         .intro {
             margin-bottom: 30px;
         }
+
         .item {
             margin-bottom: 15px;
         }
