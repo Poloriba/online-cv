@@ -67,17 +67,15 @@ education:
           - Bullet point
 
 experiences:
-    - role: Développeur web, stage 1er année
+    - role: Développeur web, stage 2ème année
       time: AOUT 2019 - DEC 2019
       company: Coffee Marketing
       details: |
         - Apprentissage de l'outil Wordpress.
-        - Gestion de serveur distant.
         - Apprentissage HTML/CSS/JS.
         - Création de sites WordPress et mise en ligne sur des serveurs distants.
         - Maintenance et mise à jour de sites internets.
-        - Modification et Integration Frontend.
-        - Mise en production de modification, correction de bug.
+        - Modification et Integration Frontend, correction de bug.
         
     - role: Développeur Full stack, stage 3ème année
       time: AVR 2021 - AOUT 2021
@@ -85,10 +83,8 @@ experiences:
       details: |
         - Apprentissage du language VueJS.
         - Dévellopement de mes compétences, HTML, CSS, JS.
-        - Dévellopement de mes compétences DevOps/microservice.
+        - Dévellopement de mes compétences DevOps/microservice et monitoring Grafana.
         - Création d'une application web de gestion de facture.
-        - Utilisation de l'outils de monitoring et ingogérence Grafana.
-        - Contribution au contenu OpenSource de l'entreprise.
         - Instalation a zéro de plusieurs machines, Ordinateur, Raspberry Pi.
         - Gestion et administrations de live Youtube.
 
@@ -97,10 +93,11 @@ experiences:
       company: Sopra-Steria Sophia Antipolis
       details: |
         - Dévellopement de mes compétences C# .NET.
+        - Implémentation API back-end et CSHTML front-end (fullstack).
         - Utilisation de l'outils de gestion de projet Azure Devops.
+        - Utilisation de requête SQL et gestion de base de données.
         - Integration au sein d'une équipe de TMA sur un projet santé.
-        - Relation client.
-        - Responsabilité de temps sous forme de tickets.
+        - Daily meeting et communication client.
 
 publications:
     title: Compétences
@@ -117,25 +114,22 @@ skills:
     title: Niveaux de compétences
 
     toolset:
+      - name: HTML5 & CSS
+        level: 90%
+
       - name: Python
         level: 85%
 
       - name: Javascript
         level: 85%
-
-      - name: C & C++ & C#
-        level: 70%
-
-      - name: HTML5 & CSS
-        level: 90%
         
       - name: VueJS
         level: 80%
         
       - name: Docker & YML
-        level: 85%
+        level: 80%
 
-      - name: Sketch & Photoshop
-        level: 50%
+      - name: C & C++ & C#
+        level: 75%
 
 footer:
